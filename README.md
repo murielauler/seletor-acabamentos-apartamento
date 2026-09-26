@@ -4,7 +4,7 @@ Comparador visual de materiais para cozinha e sacada, com 18 combinações, trê
 
 ## Usar
 
-Abra `index.html` no navegador, mantendo a pasta `assets` ao lado. Não exige instalação, compilação ou conexão com a internet. Também pode ser servido como site estático.
+Abra `index.html` no navegador, mantendo a pasta `assets` ao lado. Não exige instalação, compilação ou conexão com a internet. Para usar todos os recursos, incluindo o download das fotos, sirva como site estático. Localmente, execute `python3 -m http.server 8000` nesta pasta e abra `http://localhost:8000`.
 
 - Selecione as bancadas, os tampos e os revestimentos.
 - Alterne entre cozinha de frente, cozinha pelo fogão e sacada de frente.
